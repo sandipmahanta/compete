@@ -3,6 +3,7 @@ package compete.hackerrank.misc
 import scala.collection.mutable
 import scala.util.control.Breaks
 
+//Example of breakable
 object HackerRank {
 
 def main(args: Array[String]) {
